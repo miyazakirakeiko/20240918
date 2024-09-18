@@ -1,5 +1,5 @@
 const setlist = [];
-let songCount = 0; // 曲数をカウント
+let songCount = 0; // 曲数をカウントしていく
 
 // 曲を追加する関数
 function addSong() {
